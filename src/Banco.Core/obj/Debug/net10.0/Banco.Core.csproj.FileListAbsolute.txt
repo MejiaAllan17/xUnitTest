@@ -1,0 +1,11 @@
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\bin\Debug\net10.0\Banco.Core.deps.json
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\bin\Debug\net10.0\Banco.Core.dll
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\bin\Debug\net10.0\Banco.Core.pdb
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\Banco.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\Banco.Core.AssemblyInfoInputs.cache
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\Banco.Core.AssemblyInfo.cs
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\Banco.Core.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\Banco.Core.dll
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\refint\Banco.Core.dll
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\Banco.Core.pdb
+C:\Users\Allan\Documents\UnitTestXunit\src\Banco.Core\obj\Debug\net10.0\ref\Banco.Core.dll
